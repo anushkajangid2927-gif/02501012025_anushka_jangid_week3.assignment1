@@ -1,1 +1,7 @@
-# 02501012025_anushka_jangid_week3.assignment1
+NAME - ANUSHKA JANGID
+
+ENROLLMENT NO - 02501012025
+
+INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN
+
+Assignment: Agricultural Yield EDA and Machine Learning
